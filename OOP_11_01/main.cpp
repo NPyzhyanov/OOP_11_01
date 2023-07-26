@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#include "../greeter_static_lib/greeter.h"
+#include "greeter.h"
 
 int main()
 {
